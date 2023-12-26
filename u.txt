@@ -1,4 +1,12 @@
 this is from local
 now working in it
 this is again from local
+<<<<<<< HEAD
 jbnm.,/cvbnm,./this is only for master
+=======
+
+this is from staging
+this is for checking
+
+this is only for master
+>>>>>>> 9fc89ac4a8ecfa9ddd9e8c9b344d4b29fb4d918c
